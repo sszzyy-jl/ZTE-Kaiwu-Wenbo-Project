@@ -1,0 +1,4 @@
+repository "中兴开物最终版@2239367474-qq-com@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
